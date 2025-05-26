@@ -4,6 +4,6 @@ st.title("😶‍🌫️Selamat datang di web Ssashaa🤐😶‍🌫️")
 st.write(
     "Thank you for click this web to see my new web"
 )
-st.image("pngtree-cute-funny-cat-illustration-png-image_16803570.png", width=200)
+st.image("0974bdaa9f61a3afc1fb004984fb9a37.jpg", width=200)
 
 
